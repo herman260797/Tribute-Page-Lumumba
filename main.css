@@ -22,6 +22,10 @@ html {
     color: red;
   }
 
+  footer{
+    text-align: center;
+  }
+
   @media (max-width: 460px) {
     h1 {
       font-size: 2.5rem;
@@ -91,7 +95,7 @@ html {
   }
   
   a:hover {
-    color: white;
+    color: rgb(5, 1, 10);
   }
   
   .param {
